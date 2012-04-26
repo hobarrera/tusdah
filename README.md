@@ -13,6 +13,6 @@ The config files goes in ~/.config/tusdah/config
 
 Here's my example:
 
-   [repo]
-   location = /srv/http/default/archlinux/packages
-   db = /srv/http/default/archlinux/packages/hugo.db.tar.gz
+    [repo]
+    location = /srv/http/default/archlinux/packages
+    db = /srv/http/default/archlinux/packages/hugo.db.tar.gz
